@@ -6,7 +6,7 @@
  * Time: 11:49 AM
  */
 
-class File
+class FileHelper
 {
 
     /**

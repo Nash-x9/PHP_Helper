@@ -6,7 +6,7 @@
  * Time: 11:08 AM
  */
 
-class TimeStamps
+class TimeStampsHelper
 {
     /**
      * 获取当天时间戳

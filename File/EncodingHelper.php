@@ -6,7 +6,7 @@
  * Time: 11:47 AM
  */
 
-class Encoding
+class EncodingHelper
 {
 
     /**
